@@ -1,0 +1,2 @@
+HTTPS: https://github.com/JIayingOu/testGit.git
+SSH:   git@github.com:JIayingOu/testGit.git
